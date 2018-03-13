@@ -12,4 +12,4 @@ function logShout (string){
 
 function logwhisper (string){
   console.log(string.toLowerCase())
-}
+};
